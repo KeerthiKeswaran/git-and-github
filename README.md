@@ -1,6 +1,6 @@
 # Git and GitHub Concepts Curriculum
 
-Welcome to the central repository for the Git & GitHub Mastery framework. This repository contains structured solutions and professional documentation for 10 distinct Git tasks, each demonstrating a core piece of version control competency.
+Welcome to the central repository for the Git & GitHub Mastery. This repository contains structured solutions and professional documentation for 10 distinct Git tasks, each demonstrating a core piece of version control competency.
 
 The codebase is organized chronologically by task, with each task receiving its own dedicated `task-X` branch and isolated markdown documentation detailing the experiment and operations performed.
 
